@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building the future of mobility at [![Metropolis](https://img.shields.io/badge/-Metropolis-5f59ff)](https://metropolis.io).
-- 🌱 I’m currently learning Domain Driven Design.
-- 💬 Ask me about Scala.
+- 🔭 I’m currently building an AI-native ERP at [![Rillet]([https://img.shields.io/badge/-Metropolis-5f59ff](https://img.shields.io/badge/Rillet-240257))](https://rillet.com).
+- 🌱 I’m currently learning about [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html).
+- 💬 Ask me about Scala (and why I'm using Kotlin now 🥲).
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/iantabolt)
 - 🏃‍♂️ Fun fact: I've run the NYC Marathon annually for the last seven years and counting.
 
